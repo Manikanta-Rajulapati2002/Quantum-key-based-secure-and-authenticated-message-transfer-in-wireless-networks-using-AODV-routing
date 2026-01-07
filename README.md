@@ -8,5 +8,7 @@ Linux environment, Python, Networking, Numpy
 
 # How to run?
  1: Run the main.py file in the linux terminal.
+ 
  2: Follow the steps in the aodv_script
+ 
  3: You can see the outputs in the Project screenshots folder.
